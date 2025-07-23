@@ -1,4 +1,4 @@
-# 🌪️ Tornado Server - Aspiring Investments
+# 🌪️ Tornado Server - SocialCalc Invoice App
 
 A powerful Tornado-based web server providing cloud storage, user authentication, file operations, and PDF generation capabilities.
 
